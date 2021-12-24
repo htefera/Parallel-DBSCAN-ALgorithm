@@ -1,1 +1,1 @@
-# Parallel DBSCAN ALgorithm Implementation 
+# DBSCAN and  Parallel DBSCAN  python implementation 
