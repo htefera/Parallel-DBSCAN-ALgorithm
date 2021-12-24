@@ -2,7 +2,7 @@
 
 ### Data minign clustering algorithms
 * Normal DBSCAN
-* Parallel DBSCAn
+* Parallel DBSCAN
 
 ### Implemenation 
 * Language- Python
