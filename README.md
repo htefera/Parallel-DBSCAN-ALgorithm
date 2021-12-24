@@ -18,8 +18,9 @@ Google Colab is a cloud technology that provides free Jupiter notebooks that are
 
 ### program Execution
  * Load the file into [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
- * Store the datasets in Google drive
+ * Store the point datasers in Google drive
  * Fetech the data from Google Drive to Google Colab environment
- * To fetch the data use the following command
- **  
+ 
+  Example: to load a specific point file into Google Colab use the following method
+ *  load_points(points_list_from_file)
 
