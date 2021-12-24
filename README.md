@@ -1,4 +1,4 @@
-# DBSCAN and  Parallel DBSCAN  python implementation 
+## DBSCAN and  Parallel DBSCAN Implementation 
 
 ### Data minign clustering algorithms
 * Normal DBSCAN
