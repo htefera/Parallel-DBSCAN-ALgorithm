@@ -6,8 +6,7 @@
 
 ### Implemenation 
 * Language- Python
-* IDE-Google Colab
-* 
+* IDE-Google Colab 
 
 
 ### Google Colab
@@ -17,5 +16,10 @@ Google Colab is a cloud technology that provides free Jupiter notebooks that are
 * CPU: 1 single core hyper threaded i.e(1 core, 2 threads) Xeon Processors @2.3Ghz , 45MB Cache.
 * RAM: ~12.6 GB Available.
 
-### Description of the functions used for the algorithm:
+### program Execution
+ * Load the file into [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
+ * Store the datasets in Google drive
+ * Fetech the data from Google Drive to Google Colab environment
+ * To fetch the data use the following command
+ **  
 
